@@ -23,3 +23,12 @@ Ideal features are :
 video #4
 Choose classifiers.
 f(x) = y;
+
+
+video #5
+Create you own classifier
+
+
+video #6
+Our input is an image.
+Use: TensorFlow - open source lib
